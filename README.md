@@ -5,7 +5,7 @@ One of my favorite things to do is build stuff — like furniture and the intern
 For the latter, I like or am learning:
 
 ```text
-JavaScript, React.js, Ruby on Rails, GraphQL, Go, Data Visualization, Headless CMS, 
+JavaScript, React.js, Svelte, Ruby on Rails, GraphQL, Go, Data Visualization, Headless CMS, 
 JAM-stack, Python, Docker, TypeScript, Cypress, Node.js, PostgreSQL, UX & user interaction design
 ```
 
