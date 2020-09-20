@@ -5,15 +5,19 @@ One of my favorite things to do is build stuff — like furniture and the intern
 For the latter, I like or am learning:
 
 ```text
-JavaScript, React.js, Ruby on Rails, GraphQL, Data Visualization, Headless CMS, 
+JavaScript, React.js, Ruby on Rails, GraphQL, Go, Data Visualization, Headless CMS, 
 JAM-stack, Python, Docker, TypeScript, Cypress, Node.js, PostgreSQL, UX & user interaction design
 ```
 
-- 🔭 I’m currently working on a data management platform for tracking shelter animals around the country 🐶
-- 🌱 I’m currently learning GraphQL
-- 👯 I’m looking to collaborate on mission-driven projects that help the natural world
-- 💬 Ask me about moving to a remote location in a harsh climate and converting a 3 season cabin into a year-round home
-- 📫 How to reach me: [@evanheisler](https://twitter.com/evanheisler)
+- I’m currently working on:
+  - 🐶  a data management platform for tracking shelter animals around the country and 
+  - 🌳  an application allowing land owners to be paid for keeping their forests to sequester CO2 emissions
+
+
+- 🌱  I’m currently learning GraphQL
+- 👯  I’m looking to collaborate on mission-driven projects that help the natural world
+- 💬  Ask me about moving to a remote location in a harsh climate and converting a 3 season cabin into a year-round home
+- 📫  How to reach me: [@evanheisler](https://twitter.com/evanheisler)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
