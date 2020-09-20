@@ -10,7 +10,7 @@ JAM-stack, Python, Docker, TypeScript, Cypress, Node.js, PostgreSQL, UX & user i
 ```
 
 - I’m currently working on:
-  - 🐶  a data management platform for tracking shelter animals around the country and 
+  - 🐶  a data management platform for tracking shelter animals around the country 
   - 🌳  an application allowing land owners to be paid for keeping their forests to sequester CO2 emissions
 
 
