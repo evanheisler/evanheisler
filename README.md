@@ -20,11 +20,11 @@ JAM-stack, Python, Docker, TypeScript, Cypress, Node.js, PostgreSQL, UX & user i
 - 📫  How to reach me: [@evanheisler](https://twitter.com/evanheisler)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 805 Contributions in the Year 2020
+> 🏆 812 Contributions in the Year 2020
  > 
 > 📦 191.3 kB Used in Github's Storage 
  > 
