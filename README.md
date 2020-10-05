@@ -20,7 +20,7 @@ JAM-stack, Python, Docker, TypeScript, Cypress, Node.js, PostgreSQL, UX & user i
 - 📫  How to reach me: [@evanheisler](https://twitter.com/evanheisler)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 **🐱 My Github Data** 
 
