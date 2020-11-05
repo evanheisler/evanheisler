@@ -22,7 +22,7 @@ JAM-stack, Python, Docker, TypeScript, Cypress, Node.js, PostgreSQL, UX & user i
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 1,029 Contributions in the Year 2020
+> 🏆 1,030 Contributions in the Year 2020
  > 
 > 📦 192.4 kB Used in Github's Storage 
  > 
@@ -59,11 +59,7 @@ Sunday       60 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     18 mins             ███████████░░░░░░░░░░░░░░   45.8% 
-Other                    6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
-Markdown                 6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.01% 
-Git Config               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
+No Activity Tracked This Week
 
 ```
 
